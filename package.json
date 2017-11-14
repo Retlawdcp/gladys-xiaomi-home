@@ -2,7 +2,7 @@
   "name": "gladys-xiaomi-home",
   "version": "0.1.0",
   "description": "Gladys Xiaomi Home Module",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "npm test"
   },
