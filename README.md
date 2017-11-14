@@ -62,3 +62,11 @@ pm2 start /home/pi/gladys-xiaomi-home/app.js --name gladys-xiaomi-home
 ```
 
 So that gladys-xiaomi-home run in background :)
+
+## Debug
+
+To debug, you can see logs by calling : 
+
+```
+pm2 logs gladys-xiaomi-home
+```
