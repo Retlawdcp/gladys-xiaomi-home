@@ -1,6 +1,6 @@
 {
   "name": "gladys-xiaomi-home",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gladys Xiaomi Home Module",
   "main": "app.js",
   "scripts": {
